@@ -9,7 +9,7 @@ Building production-ready applications, scalable APIs, and practical software so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek-portfolio-alpha.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/Vivek24051)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/viveklimabchiya)
 
 </div>
 
@@ -38,7 +38,7 @@ AI-assisted property portfolio analysis with tool calling, deterministic calcula
 
 **Tech:** Next.js · TypeScript · LangGraph · Gemini · Prisma
 
-[📂 Source Code](https://github.com/Vivek24051/ai-portfolio-analyst)
+[📂 Source Code](https://github.com/viveklimabchiya/ai-portfolio-analyst)
 
 [🌐 Live Demo](https://ai-portfolio-analyst-two.vercel.app)
 
@@ -51,7 +51,7 @@ A document management and signing application featuring PDF workflows, authentic
 
 **Tech:** Next.js · TypeScript · Node.js · MongoDB
 
-[📂 Source Code](https://github.com/Vivek24051/docsign)
+[📂 Source Code](https://github.com/viveklimabchiya/docsign)
 
 [🌐 Live Demo](https://docsign-hkov.vercel.app/)
 
@@ -66,7 +66,7 @@ A CMS-driven page builder connecting Strapi-managed content with reusable Next.j
 
 **Tech:** Strapi · Next.js · TypeScript
 
-[📂 Source Code](https://github.com/Vivek24051/strapi-nextjs-pagebuilder)
+[📂 Source Code](https://github.com/viveklimabchiya/strapi-nextjs-pagebuilder)
 
 [🌐 Live Demo](https://strapi-nextjs-pagebuilder-web.vercel.app/)
 
@@ -79,7 +79,7 @@ My personal website showcasing my developer profile, technical skills, and proje
 
 **Tech:** JavaScript · Web Development
 
-[📂 Source Code](https://github.com/Vivek24051/vivek-portfolio)
+[📂 Source Code](https://github.com/viveklimabchiya/vivek-portfolio)
 
 [🌐 Live Website](https://vivek-portfolio-alpha.vercel.app/)
 
@@ -94,7 +94,7 @@ A responsive website project focused on a medical and healthcare experience.
 
 **Tech:** JavaScript · Web Development
 
-[📂 Source Code](https://github.com/Vivek24051/Heal-Web)
+[📂 Source Code](https://github.com/viveklimabchiya/Heal-Web)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ A web project hosted through GitHub Pages.
 
 **Tech:** EJS · Web Development
 
-[📂 Source Code](https://github.com/Vivek24051/WorkWithUs.github.io)
+[📂 Source Code](https://github.com/viveklimabchiya/WorkWithUs.github.io)
 
 </td>
 </tr>
@@ -233,9 +233,9 @@ Parul University · 2019–2023 · CGPA: 7.65
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vivek24051&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=viveklimabchiya&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek24051&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveklimabchiya&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 
 </div>
 
@@ -245,6 +245,6 @@ Parul University · 2019–2023 · CGPA: 7.65
 
 ### 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/) · [Portfolio](https://vivek-portfolio-alpha.vercel.app/) · [GitHub](https://github.com/Vivek24051)
+[LinkedIn](https://www.linkedin.com/in/vivek-limbachiya-a33a26242/) · [Portfolio](https://vivek-portfolio-alpha.vercel.app/) · [GitHub](https://github.com/viveklimabchiya)
 
 </div>
